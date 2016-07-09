@@ -15,14 +15,18 @@ Hadoop and Bigdata Related Books reference by https://github.com/muthu4all/SMAC/
 1. Machine Learning in Action Manning 2012.pdf
 2. Machine Learning with Spark Nick Pentreath PACKT Feb 2015.pdf
 3. Scala for Machine Learning Patrick R. Nicolas 2014.pdf
+4. R Programming for Data Science 2015 By Roger D. Peng.pdf
 
 ## Spark and Scala:
 1. Scala for Java Developers Thomas Alexandre April 2014.pdf
 2. Learning Spark Lightning-Fast Big Data Analysis Orielly Feb 2015.pdf
 3. Data Algorithms Recipes for Scaling Up with Hadoop and Spark Ist edition Orielly Jul 2015.pdf
 
-
 ## Python:
 1. Building Machine Learning Systems with Python, 2nd Edition PACKT March 2015.pdf
 2. Python Programming Language in 24 hours - Norman James.pdf
 
+## Data Science
+1. Clean Data (2015) By Megan Squire PACKT.pdf
+2. Introducing Data Science - Big Data, Machine Learning and more, using Python tools 2016 Manning.pdf
+3. Data Science For Dummies by Lillian Pierson 2015.pdf

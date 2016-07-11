@@ -15,7 +15,9 @@ Hadoop and Bigdata Related Books reference by https://github.com/muthu4all/SMAC/
 
 9. HBase in Action Manning 2013.pdf
 
-10. Getting a Big Data Job For Dummies - 1st Edition (2015).pdf
+10. Apache Hadoop YARN Arun C. Murthy Addison-Wesley March 2014.pdf
+
+11. Getting a Big Data Job For Dummies - 1st Edition (2015).pdf
 
 
 ## Machine Learning (Covers Spark, Scala, Python, R)
@@ -23,6 +25,7 @@ Hadoop and Bigdata Related Books reference by https://github.com/muthu4all/SMAC/
 2. Machine Learning with Spark Nick Pentreath PACKT Feb 2015.pdf
 3. Scala for Machine Learning Patrick R. Nicolas 2014.pdf
 4. R Programming for Data Science 2015 By Roger D. Peng.pdf
+5. Machine Learning With R Cookbook By Yu-Wei, Chiu (David Chiu) PACKT March 2015 (Zipped Version)
 
 ## Spark and Scala:
 1. Scala for Java Developers Thomas Alexandre April 2014.pdf

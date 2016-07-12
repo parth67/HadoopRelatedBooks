@@ -1,23 +1,24 @@
 # HadoopRelatedBooks
-Hadoop and Bigdata Related Books reference by https://github.com/muthu4all/SMAC/blob/master/Muthu4AllReferences.txt
+Hadoop and Bigdata Related Books reference by Edureka Instrcutor Muthu https://github.com/muthu4all/SMAC/blob/master/Muthu4AllReferences.txt
 
 ## Hadoop and Bigdata books:
 1. Hadoop The Definitive Guide 1st edition Orielly Jun 2009.pdf
 2. Hadoop The Definitive Guide 2nd edition Orielly Oct 2010.pdf
 3. Hadoop The Definitive Guide 3rd edition Orielly May 2012.pdf
-4. Learning Hadoop 2 - Garry Turkington PACKET Feb 2015.pdf
-5. Hadoop MapReduce v2 Cookbook, 2nd Edition PACKT Thilina Gunarathne Feb 2015.pdf
-6. Hadoop Real-World Solutions Cookbook By Jonathan R. Owens PACKT Feb 2013.pdf
+4. Hadoop in Practice by Alex Holmes Manning 2012.pdf
+5. Learning Hadoop 2 - Garry Turkington PACKET Feb 2015.pdf
+6. Hadoop MapReduce v2 Cookbook, 2nd Edition PACKT Thilina Gunarathne Feb 2015.pdf
+7. Hadoop Real-World Solutions Cookbook By Jonathan R. Owens PACKT Feb 2013.pdf
 
-7. Programming Pig by Alan Gate Oreilly Oct 2011.pdf   (https://github.com/alanfgates/programmingpig)
+8. Programming Pig by Alan Gate Oreilly Oct 2011.pdf   (https://github.com/alanfgates/programmingpig)
 
-8. Programming Hive by Edward Capriolo, Dean Wampler, Jason Rutherglen Oreilly Sep 2012.pdf
+9. Programming Hive by Edward Capriolo, Dean Wampler, Jason Rutherglen Oreilly Sep 2012.pdf
 
-9. HBase in Action Manning 2013.pdf
+10. HBase in Action Manning 2013.pdf
 
-10. Apache Hadoop YARN Arun C. Murthy Addison-Wesley March 2014.pdf
+11. Apache Hadoop YARN Arun C. Murthy Addison-Wesley March 2014.pdf
 
-11. Getting a Big Data Job For Dummies - 1st Edition (2015).pdf
+12. Getting a Big Data Job For Dummies - 1st Edition (2015).pdf
 
 
 ## Machine Learning (Covers Spark, Scala, Python, R)

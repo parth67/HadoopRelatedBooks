@@ -59,4 +59,4 @@ Hadoop and Bigdata Related Books reference by Edureka Instrcutor Muthu https://g
 1. Spring In Action By Craig Walls 4th Edition 2015 Manning.pdf
 
 
-## Thanks a lot to all the Authors for their time, thoughts and energy. We wish let them Be Constantly Contented. Om Shanti ? ??
+## Thanks a lot to all the Authors for their time, thoughts and energy. We wish let them Be Constantly Contented. Om Shanti :)

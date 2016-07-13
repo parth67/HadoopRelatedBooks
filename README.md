@@ -22,9 +22,9 @@ Hadoop and Bigdata Related Books reference by Edureka Instrcutor Muthu https://g
 15. Programming Hive by Edward Capriolo, Dean Wampler, Jason Rutherglen 1st Ed Oct 2012 Oreilly.pdf
 16. HBase in Action by Nick Dimiduk Amandeep Khurana Manning 2013.pdf
 17. HBase The Definitive Guide By Lars George 2011 Orielly.pdf
+18. Professional Hadoop Solutions By By Boris Lublinsky Kevin T. Smith Alexey Yakubovich 2013 Wrox.pdf
 
-18. Getting a Big Data Job For Dummies - 1st Edition (2015).pdf
-
+19. Getting a Big Data Job For Dummies - 1st Edition (2015).pdf
 
 
 ## Machine Learning (Covers Spark, Scala, Python, R)
@@ -48,12 +48,15 @@ Hadoop and Bigdata Related Books reference by Edureka Instrcutor Muthu https://g
 
 
 ## Data Science
-1. Clean Data (2015) By Megan Squire PACKT.pdf
-2. Introducing Data Science - Big Data, Machine Learning and more, using Python tools 2016 Manning.pdf
-3. Data Science For Dummies by Lillian Pierson 2015.pdf
-
-
+1. Practical Data Science with R By Nina Zumel, John Mount 2014 Manning.pdf (https://github.com/WinVector/zmPDSwR)
+2. Data Science from Scratch First Principles with Python By Joel Grus Apr 2015 Oreilly.pdf (https://github.com/joelgrus/data-science-from-scratch)
+3. Introducing Data Science - Big Data, Machine Learning and more, using Python tools 2016 Manning.pdf
+4. Clean Data (2015) By Megan Squire PACKT.pdf
+5. Data Science For Dummies by Lillian Pierson 2015.pdf
 
 
 ## Spring
-Spring In Action By Craig Walls 4th Edition 2015 Manning.pdf
+1. Spring In Action By Craig Walls 4th Edition 2015 Manning.pdf
+
+
+## Thanks a lot to all the Authors for their time, thoughts and energy. We wish let them Be Constantly Contented. Om Shanti ? ??

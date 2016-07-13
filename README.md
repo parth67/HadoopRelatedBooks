@@ -2,23 +2,29 @@
 Hadoop and Bigdata Related Books reference by Edureka Instrcutor Muthu https://github.com/muthu4all/SMAC/blob/master/Muthu4AllReferences.txt
 
 ## Hadoop and Bigdata books:
-1. Hadoop The Definitive Guide 1st edition Orielly Jun 2009.pdf
-2. Hadoop The Definitive Guide 2nd edition Orielly Oct 2010.pdf
-3. Hadoop The Definitive Guide 3rd edition Orielly May 2012.pdf
-4. Hadoop in Practice by Alex Holmes Manning 2012.pdf
-5. Learning Hadoop 2 - Garry Turkington PACKET Feb 2015.pdf
-6. Hadoop MapReduce v2 Cookbook, 2nd Edition PACKT Thilina Gunarathne Feb 2015.pdf
-7. Hadoop Real-World Solutions Cookbook By Jonathan R. Owens PACKT Feb 2013.pdf
+1. Hadoop The Definitive Guide By Tom White 1st edition Orielly Jun 2009.pdf
+2. Hadoop The Definitive Guide By Tom White 2nd edition Orielly Oct 2010.pdf
+3. Hadoop The Definitive Guide By Tom White 3rd edition Orielly May 2012.pdf
+4. Hadoop The Definitive Guide By Tom White 4th Edition Apr 2015 OReilly.pdf (https://github.com/tomwhite/hadoop-book/)
+4. Hadoop The Definitive Guide By Tom White 4th Edition OReilly Apr 2015.pdf (same as above 4th ed)
+5. Hadoop in Practice by Alex Holmes Manning 2012.pdf
+6. Learning Hadoop 2 - Garry Turkington PACKET Feb 2015.pdf
+7. Hadoop MapReduce v2 Cookbook, 2nd Edition PACKT Thilina Gunarathne Feb 2015.pdf
+8. Hadoop Real-World Solutions Cookbook By Jonathan R. Owens PACKT Feb 2013.pdf
+9. Hadoop Application Architectures By Mark Grover Jul 2015 Orielly.pdf
+10. Apache Hadoop YARN Arun C. Murthy Addison-Wesley March 2014.pdf
+11. Pro Hadoop By Jason Venner Apress 2009.pdf 
+12. Hadoop Beginners Guide By Garry Turkington Feb 2013.pdf
 
-8. Programming Pig by Alan Gate Oreilly Oct 2011.pdf   (https://github.com/alanfgates/programmingpig)
+13. Pig Design Patterns By Pradeep Pasupuleti Apr 2014 PACKT.pdf (code: https://github.com/pradeep-pasupuleti/pig-design-patterns)
+14. Programming Pig by Alan Gate Oreilly Oct 2011.pdf (code: https://github.com/alanfgates/programmingpig)
+15. Programming Hive by Edward Capriolo, Dean Wampler, Jason Rutherglen Oreilly Sep 2012.pdf
+15. Programming Hive by Edward Capriolo, Dean Wampler, Jason Rutherglen 1st Ed Oct 2012 Oreilly.pdf
+16. HBase in Action by Nick Dimiduk Amandeep Khurana Manning 2013.pdf
+17. HBase The Definitive Guide By Lars George 2011 Orielly.pdf
 
-9. Programming Hive by Edward Capriolo, Dean Wampler, Jason Rutherglen Oreilly Sep 2012.pdf
+18. Getting a Big Data Job For Dummies - 1st Edition (2015).pdf
 
-10. HBase in Action Manning 2013.pdf
-
-11. Apache Hadoop YARN Arun C. Murthy Addison-Wesley March 2014.pdf
-
-12. Getting a Big Data Job For Dummies - 1st Edition (2015).pdf
 
 
 ## Machine Learning (Covers Spark, Scala, Python, R)
@@ -34,8 +40,10 @@ Hadoop and Bigdata Related Books reference by Edureka Instrcutor Muthu https://g
 3. Data Algorithms Recipes for Scaling Up with Hadoop and Spark Ist edition Orielly Jul 2015.pdf
 
 ## Python:
-1. Building Machine Learning Systems with Python, 2nd Edition PACKT March 2015.pdf
+1. Learning Python By Mark Lutz 5th Edition Jun 2013 Oreilly.pdf
 2. Python Programming Language in 24 hours - Norman James.pdf
+3. Building Machine Learning Systems with Python, 2nd Edition PACKT March 2015.pdf
+
 
 ## Data Science
 1. Clean Data (2015) By Megan Squire PACKT.pdf

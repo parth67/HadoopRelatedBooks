@@ -32,7 +32,9 @@ Hadoop and Bigdata Related Books reference by Edureka Instrcutor Muthu https://g
 2. Machine Learning with Spark Nick Pentreath PACKT Feb 2015.pdf
 3. Scala for Machine Learning Patrick R. Nicolas 2014.pdf
 4. R Programming for Data Science 2015 By Roger D. Peng.pdf
-5. Machine Learning With R Cookbook By Yu-Wei, Chiu (David Chiu) PACKT March 2015 (Zipped Version)
+5. R Graph Cookbook By Hrishi V. Mittal 2011 PACKT.pdf
+6. Machine Learning With R Cookbook By Yu-Wei, Chiu (David Chiu) PACKT March 2015 (Zipped Version)
+
 
 ## Spark and Scala:
 1. Scala for Java Developers Thomas Alexandre April 2014.pdf
@@ -49,3 +51,9 @@ Hadoop and Bigdata Related Books reference by Edureka Instrcutor Muthu https://g
 1. Clean Data (2015) By Megan Squire PACKT.pdf
 2. Introducing Data Science - Big Data, Machine Learning and more, using Python tools 2016 Manning.pdf
 3. Data Science For Dummies by Lillian Pierson 2015.pdf
+
+
+
+
+## Spring
+Spring In Action By Craig Walls 4th Edition 2015 Manning.pdf

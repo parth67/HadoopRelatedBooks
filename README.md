@@ -59,4 +59,10 @@ Hadoop and Bigdata Related Books reference by Edureka Instrcutor Muthu https://g
 1. Spring In Action By Craig Walls 4th Edition 2015 Manning.pdf
 
 
+## Java 
+1. Head First Java 2ndEdition By Kathy Sierra and Bert Bates Oreilly Feb 2005.pdf
+2. OCP Java SE 7 Programmer II Certification Guide Prepare for the 1ZO-804 exam By Mala Gupta Manning 2015.pdf
+3. Oracle Certified Professional Java SE 7 Programmers 1ZO-804 and 805 By SG Ganesh and Thushar Sharma APress.pdf
+
+
 ## Thanks a lot to all the Authors for their time, thoughts and energy. We wish let them Be Constantly Contented. Om Shanti :)

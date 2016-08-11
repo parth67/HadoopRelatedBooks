@@ -45,6 +45,16 @@ Hadoop and Bigdata Related Books reference by Edureka Instrcutor Muthu https://g
 1. Learning Python By Mark Lutz 5th Edition Jun 2013 Oreilly.pdf
 2. Python Programming Language in 24 hours - Norman James.pdf
 3. Building Machine Learning Systems with Python, 2nd Edition PACKT March 2015.pdf
+4. Black Hat Python By Justin Seitz Python Programming for Hackers and Pentesters-No Starch Press 2014.pdf
+5. Data Structures and Algorithms with Python By Kent D. Lee, Steve Hubbard 2015 Springer.pdf
+6. Data Visualization with Python and JavaScript By Kiran Dale Oreilly 2016.pdf
+7. Learning Predictive Analytics with Python By Ashish Kumar Feb 2016 PACKT.pdf
+8. Learning Python Design Patterns By Chetan Giridhar Feb PACKT 2016.pdf
+9. Python for Software Design 2009.pdf
+10. Regression Analysis with Python - Luca Massaron Feb 2016 PACKT.pdf
+11. The Definitive Guide to Jython - Python for the Java Platform By Josh Juneau 2010 APress.pdf
+12. The Python Book - The Ultimate Guide to Coding with Python 2015.pdf
+13. Use MySQL with Python - M. MOka PACKT.pdf
 
 
 ## Data Science
@@ -65,4 +75,4 @@ Hadoop and Bigdata Related Books reference by Edureka Instrcutor Muthu https://g
 3. Oracle Certified Professional Java SE 7 Programmers 1ZO-804 and 805 By SG Ganesh and Thushar Sharma APress.pdf
 
 
-## Thanks a lot to all the Authors for their time, thoughts and energy. We wish let them Be Constantly Contented. Om Shanti :)
+## Thanks a lot to all the Authors for their time, thoughts and energy. We wish them Be Constantly Contented. Om Shanti :)

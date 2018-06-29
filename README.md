@@ -51,7 +51,7 @@ Hadoop and Bigdata Related Books reference by Edureka Instrcutor Muthu https://g
 7. Learning Predictive Analytics with Python By Ashish Kumar Feb 2016 PACKT.pdf
 8. Learning Python Design Patterns By Chetan Giridhar Feb PACKT 2016.pdf
 9. Python for Software Design 2009.pdf
-10. Regression Analysis with Python - Luca Massaron Feb 2016 PACKT.pdf
+10. Regression Analysis with Python - Luca Massaron Feb 2016 PACKT.pdf -- REMOVED! due to DMCA
 11. The Definitive Guide to Jython - Python for the Java Platform By Josh Juneau 2010 APress.pdf
 12. The Python Book - The Ultimate Guide to Coding with Python 2015.pdf
 13. Use MySQL with Python - M. MOka PACKT.pdf
